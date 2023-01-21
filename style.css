@@ -120,7 +120,7 @@ body {
   color: darkblue;
 }
 .hero {
-  background-image: url(/images/arcade.jpg);
+  background-image: url(./images/arcade.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
